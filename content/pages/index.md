@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/hero.png
+    image: images/10.jpg
     image_alt: App preview
     title: Next-Gen transformation consultants
     content: "We bring together a consulting know-how, \_digital experience and a software development powerhouse under one roof to deliver turnkey products and premium services to power winning digital strategies.\n"
